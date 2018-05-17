@@ -1,7 +1,7 @@
 import os
 
 # the token of your bot
-TOKEN_BOT = '...'
+TOKEN_BOT = '522701018:AAFVnFzfkYnJyBwzRR9gsKBRyvgmF60Pdpc'
 
 TIME_INTERVAL = 30
 
